@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @gokilanr
 - 👀 I’m interested in coding, research and travel around the world.
-- 🌱 I’m currently learning html,css,java and python
-- 💞️ I’m looking to collaborate on web development projects 
+- 🌱 I’m currently learning html,css, and python, data science project
 - 📫 How to reach me Gokilanraja1428@gmail.com
 
 <!---
